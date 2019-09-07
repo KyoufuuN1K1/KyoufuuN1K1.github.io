@@ -38,7 +38,7 @@
       "name": "virtual reality",
       "keywords": [
       ]
-    }
+    },
     {
       "name": "video games",
       "keywords": [
@@ -68,7 +68,7 @@
       "gpa": "",
       "courses": [
       ]
-    }
+    },
     {
       "institution": "Leeward Community College",
       "area": "Computer Science",
@@ -78,7 +78,7 @@
       "gpa": "",
       "courses": [
       ]
-    }
+    },
     {
       "institution": "Heald College, Honolulu, HI",
       "area": "Information Technology",
@@ -102,7 +102,7 @@
         "Operate cash register",
         "Sweep floors, organize store shelves, retrieve shopping carts, bag groceries"
       ]
-    },
+    }
     
   ],
   "volunteer": [
@@ -117,7 +117,7 @@
         "Ensure convention panels run smoothly",
         "Set up and break down rooms used by convention"
       ]
-    },
+    }
     
   ],
   
