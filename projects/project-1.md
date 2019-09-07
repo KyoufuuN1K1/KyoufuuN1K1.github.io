@@ -1,9 +1,8 @@
 ---
 layout: project
 type: project
-image: images/pearlmidway.png
+
 title: Pearl Harbor and Midway: Inside and Out
-permalink: images/pearl_harbor_and_midway__charcoal_drawing.png
 date: 2017-07-01
 labels:
   - Art
