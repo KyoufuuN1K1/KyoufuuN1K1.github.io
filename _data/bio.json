@@ -2,7 +2,7 @@
   "basics": {
     "name": "Rex Lactaoen",
     "label": "Student",
-    "picture": "https://KyoufuuN1K1.github.io/template/images/rex_profile (2).png",
+    "picture": "https://KyoufuuN1K1.github.io/template/images/rex_profile(2).png",
     "email": "lr21@hawaii.edu",
     "phone": "808-778-6475",
     "website": "https://KyoufuuN1K1.github.io",
@@ -56,17 +56,7 @@
         "Java"
       ]
     },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
-      ]
-    }
+    
   ],
   "education": [
     {
