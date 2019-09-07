@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/pearl_harbor_and_midway__charcoal_drawing.png
+image: images/pearlmidway.png
 title: Pearl Harbor and Midway: Inside and Out
 permalink: projects/micromouse
 date: 2017-07-01
