@@ -1,12 +1,12 @@
 ---
 layout: project
 type: project
-
-title: Pearl Harbor and Midway: Inside and Out
-date: 2017-07-01
+image: pearlmidway.png
+title: Pearl Harbor and Midway | Inside-Out
+date: 2017-05-10
 labels:
   - Art
-summary: Charcoal depiction of the Pearl Harbor Attack and the Battle of Midway
+summary: Charcoal drawing of Pearl Harbor and Midway.
 ---
 
 <img class="ui medium right floated rounded image" src="/images/pearl_harbor_and_midway__charcoal_drawing.png">
