@@ -4,7 +4,8 @@ type: project
 image: images/pearlmidway.png
 title: Pearl Harbor and Midway: Inside and Out
 date: 2017-07-01
-labels: 
+labels:
+  - Art
 summary: Charcoal depiction of the Pearl Harbor Attack and the Battle of Midway
 ---
 
