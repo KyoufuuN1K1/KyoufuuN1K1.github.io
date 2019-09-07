@@ -3,9 +3,8 @@ layout: project
 type: project
 image: images/pearlmidway.png
 title: Pearl Harbor and Midway: Inside and Out
-permalink: projects/micromouse
 date: 2017-07-01
-summary:
+summary: Charcoal depiction of the Pearl Harbor Attack and the Battle of Midway
 ---
 
 <img class="ui medium right floated rounded image" src="/images/pearl_harbor_and_midway__charcoal_drawing.png">
