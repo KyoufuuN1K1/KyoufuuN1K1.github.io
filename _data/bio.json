@@ -8,9 +8,9 @@
     "website": "https://KyoufuuN1K1.github.io",
     "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
-      "address": "",
+      "address": "99-182 Laka Place",
       "postalCode": "96701",
-      "city": "Honolulu",
+      "city": "Aiea",
       "countryCode": "USA",
       "region": "Hawaii"
     },
@@ -22,33 +22,32 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
+        "username": "rexlactaoen",
         "url": "https://www.linkedin.com/in/rex-lactaoen-46330a192/"
       }
     ]
   },
   "interests": [
+    
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "robotics",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "virtual reality",
+      "keywords": [
+      ]
+    }
+    {
+      "name": "video games",
       "keywords": [
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Programming Languages",
       "level": "",
       "keywords": [
         "C",
@@ -71,11 +70,31 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2022)",
+      "studyType": "B.A.",
+      "startDate": "2019-08-26",
       "endDate": "Present",
+      "gpa": "",
+      "courses": [
+      ]
+    }
+    {
+      "institution": "Leeward Community College",
+      "area": "Computer Science",
+      "studyType": "Associate's",
+      "startDate": "2015-08-21",
+      "endDate": "2019-05-10",
+      "gpa": "",
+      "courses": [
+      ]
+    }
+    {
+      "institution": "Heald College, Honolulu, HI",
+      "area": "Information Technology",
+      "studyType": "Associate's",
+      "startDate": "2013-08-26",
+      "endDate": "2015-04-15",
       "gpa": "",
       "courses": [
       ]
@@ -83,71 +102,35 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Times Supermarket",
+      "position": "General Clerk",
+      "website": "timessupermarkets.com",
+      "startDate": "2016-10-23",
       "endDate": "Present",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Operate cash register",
+        "Sweep floors, organize store shelves, retrieve shopping carts, bag groceries"
       ]
     },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
+    
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
+      "organization": "Kawaii Kon",
+      "website": "https://kawaiikon.com/",
+      "position": "Convention staffer (Events)",
       "startDate": "2016-01-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Staff at the annual convention 'Kawaii Kon' in Honolulu",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Ensure convention panels run smoothly",
+        "Set up and break down rooms used by convention"
       ]
     },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
+    
   ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
+  
   "references": [
     {
       "name": "Available upon request",
