@@ -1,10 +1,12 @@
 ---
 layout: essay
 type: essay
-title: Semantic UI Or: How I Learned to Stop Worrying and Love the 
+title: Semantic UI Or: How I Learned to Stop Worrying and Love the Framework
 date: 2019-10-10
 labels:
   - Programming
+  - Semantic UI
+  - Websites
 ---
 # Semantic UI? Semantic U-WHY?
 
