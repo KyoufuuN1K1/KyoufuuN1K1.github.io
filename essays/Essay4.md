@@ -1,13 +1,14 @@
 ---
 layout: essay
 type: essay
-title: Semantic UI Or: How I Learned to Stop Worrying and Love the Framework
+title: Semantic UI Or How I Learned to Stop Worrying and Love the Framework
 date: 2019-10-10
 labels:
   - Programming
   - Semantic UI
   - Websites
 ---
+
 # Semantic UI? Semantic U-WHY?
 
 Making a proper website is a very time-consuming process. To be frank, during my time at Heald College, I learned very briefly how to set up a website using Windows Server 2012. Building a proper website, however, is as different as the difference between an Ardipithecus (first bipedal hominid) and a modern human. Raw HTML, when using CSS, can really make a good website. Still, even with all that's said and done, a bare HTML site with standard formatting and style is a relic of pre-2000s internet. Even if it had all relevant information, bare HTML just doesn't grab the attention of the modern internet user and encourage them to stay on the site. Sure, changing styles can do a lot, but that's still not really enough.
