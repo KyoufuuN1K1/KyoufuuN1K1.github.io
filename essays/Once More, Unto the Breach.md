@@ -29,4 +29,8 @@ Over the next few weeks, after I shifted focus to the admin management page and 
 
 ## Last to Pick, Last to be Picked
   
-Often, when new issues pop up, I'm admittedly not the first to jump at them unless they're directly related to an issue I recently completed, leaving me to pick from a few of the less-desired things to fix or implement.
+Often, when new issues pop up, I'm admittedly not the first to jump at them unless they're directly related to an issue I recently completed, leaving me to pick from a few of the less-desired things to fix or implement. It's often a bit frustrating, especially when it's related to something I intended to fix. It can't be denied that these issues need to be taken care of sooner rather than later, either. I should have shown greater initiative when picking issues to work on so I could push my skills even further, but sadly, I did not. 
+  
+## Into the Wild Blue Yonder
+
+After all that's said and done, now what? 
