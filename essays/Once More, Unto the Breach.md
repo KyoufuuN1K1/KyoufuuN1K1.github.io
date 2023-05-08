@@ -21,7 +21,7 @@ To be honest, after finishing Software Development I, I didn't plan so far ahead
 
 <img class="ui large centered image" src="https://64.media.tumblr.com/5a1c7e147deb15b97641282efcd3eb9d/tumblr_mnupmmFYKX1so9972o5_540.jpg">
 
-It really has been a while since I last worked in a group to deliver a website. Only this time, that website has to be built to a customer's needs and demands, not the group's internal goals. The last time I worked with Meteor and Mongo was around 2019, which meant that my skills with those languages were a bit on the rusty side. All the pieces were there, though, so I just had to see what I did for the 314 class. The difference, though, is the presence of Bootstrap, which I had no experience using. It took a lot of documentation reading, but I managed to piece together some knowledge to get through it. That didn't stop me from messing up every now and again, but I triple-checking the documentation was a lifesaver.
+It really has been a while since I last worked in a group to deliver a website. Only this time, that website has to be built to a customer's needs and demands, not the group's internal goals. The last time I worked with Meteor and Mongo was around 2019, which meant that my skills with those languages were a bit on the rusty side. All the pieces were there, though, so I just had to see what I did for the 314 class. The difference, though, is the presence of Bootstrap, which I had no experience using. It took a lot of documentation reading, but I managed to piece together some knowledge to get through it. That didn't stop me from messing up every now and again, but triple-checking the documentation was a lifesaver.
 
 ## Two Steps Forward, Three Steps Back
 
