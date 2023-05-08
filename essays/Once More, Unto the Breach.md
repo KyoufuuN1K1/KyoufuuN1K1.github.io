@@ -5,6 +5,11 @@ title: Once More, Unto the Breach
 date: 2023-05-08
 labels:
   - Programming
+  - Reflection
+  - Websites
+  - Final Project
+  - Functional Programming
+  - Coding Standards
 ---
 
 # Once More, Unto the Breach
